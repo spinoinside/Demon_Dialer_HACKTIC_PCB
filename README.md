@@ -6,7 +6,7 @@ The Demon Dialer is a BlueBox featured in [Issue No.14/15 of the HACKTIC Magazin
 
 | FRONT  | BACK  |
 | ------ | ----- |
-| ![PCB_PCB_Demon Dialer V2_2023-05-27_FRONT.png](https://github.com/spinoinside/Demon_Dialer_HACKTIC_PCB/blob/main/images/PCB_PCB_Demon%20Dialer%20V2_2023-05-27_FRONT.png) | ![PCB_PCB_Demon Dialer V2_2023-05-27_BACK.png](https://github.com/spinoinside/Demon_Dialer_HACKTIC_PCB/blob/main/images/PCB_PCB_Demon%20Dialer%20V2_2023-05-27_BACK.png) |
+| ![PCB_PCB_Demon Dialer V2_2023-05-27_FRONT.png](https://github.com/spinoinside/Demon_Dialer_HACKTIC_PCB/blob/main/images/PCB_Demon_Dialer_V2_2023-05-27_FRONT.png) | ![PCB_Demon_Dialer_V2_2023-05-27_BACK.png](https://github.com/spinoinside/Demon_Dialer_HACKTIC_PCB/blob/main/images/PCB_Demon_Dialer_V2_2023-05-27_BACK.png) |
 
 | SCHEMATIC |
 | --------- |
