@@ -6,12 +6,12 @@ The Demon Dialer is a BlueBox featured in [Issue No.14/15 of the HACKTIC Magazin
 
 | FRONT  | BACK  |
 | ------ | ----- |
-| ![PCB_PCB_Demon Dialer V2_2023-05-27_FRONT.png](https://github.com/spinoinside/Demon_Dialer_HACKTIC_PCB/blob/main/PCB_PCB_Demon%20Dialer%20V2_2023-05-27_FRONT.png) | ![PCB_PCB_Demon Dialer V2_2023-05-27_BACK.png](https://github.com/spinoinside/Demon_Dialer_HACKTIC_PCB/blob/main/PCB_PCB_Demon%20Dialer%20V2_2023-05-27_BACK.png) |
+| ![PCB_PCB_Demon Dialer V2_2023-05-27_FRONT.png](https://github.com/spinoinside/Demon_Dialer_HACKTIC_PCB/blob/main/images/PCB_PCB_Demon%20Dialer%20V2_2023-05-27_FRONT.png) | ![PCB_PCB_Demon Dialer V2_2023-05-27_BACK.png](https://github.com/spinoinside/Demon_Dialer_HACKTIC_PCB/blob/main/images/PCB_PCB_Demon%20Dialer%20V2_2023-05-27_BACK.png) |
 
 | SCHEMATIC |
 | --------- |
-| ![Schermata del 2023-05-27 21-07-29.png](https://github.com/spinoinside/Demon_Dialer_HACKTIC_PCB/blob/main/Schermata%20del%202023-05-27%2021-07-29.png) |
-| [`Schematic_Demon Dialer_2023-05-27.pdf`](https://github.com/spinoinside/Demon_Dialer_HACKTIC_PCB/blob/main/Schematic_Demon%20Dialer_2023-05-27.pdf) |
+| ![Schermata del 2023-05-27 21-07-29.png](https://github.com/spinoinside/Demon_Dialer_HACKTIC_PCB/blob/main/schematic/Schermata%20del%202023-05-27%2021-07-29.png) |
+| [`Schematic_Demon Dialer_2023-05-27.pdf`](https://github.com/spinoinside/Demon_Dialer_HACKTIC_PCB/blob/main/schematic/Schematic_Demon%20Dialer_2023-05-27.pdf) |
 
 # Links
 
