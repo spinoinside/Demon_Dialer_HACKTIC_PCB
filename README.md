@@ -21,40 +21,38 @@ The Demon Dialer is a BlueBox featured in [Issue No.14/15 of the HACKTIC Magazin
 | --------- |
 | ![All_Parts.jpg](https://github.com/spinoinside/Demon_Dialer_HACKTIC_PCB/blob/main/images/All_Parts.jpg) |
 
-# Command List
+# BOM
 
-| Command | Function |
-| ------- | -------- |
-| ^ 1 2 3 4 | Password |
-| 2 5 ^8 7 8 ^3 7 3 ^8 2 5 |Master Password |
-| ^* ^*	| Power Off |
-| ^* 0 |	Mode Touch-Tone [DTMF] |
-| ^* 1 |	Mode ATF1 [B-netz] |
-| ^* 2 |	Mode R2-forward |
-| ^* 3 |	Mode CCITT No. 3 [C3/pulse dial] |
-| ^* 4 |	Mode CCITT No. 4 [C4] |
-| ^* 5 |	Mode CCITT No. 5 / R1 [C5] <br> ^1 is called 'Code 11' <br> ^2 is called 'Code 12' <br> ^3 is ‘KP1’ <br> ^4 is ‘KP2’ <br> ^5 is ‘ST’ <br> ^6 lasts 500ms <br> ^7 is 120ms <br> ^8 is 120ms <br> ^9 is 240ms  <br> ^0 is a silence of 50ms <br> * is called clear forward and lasts 175ms <br> # is called seize and lasts 300ms <br> ^6 2600Hz |
-| ^* 6 |	Mode RedBox |
-| ^* 7 |	Mode line signaling menu |
-| ^* 8 |	Mode tone slot |
-| ^* 12 |	Mode R2-backeard |
-| ^* 18 |	Mode user programmable (RAM-mode) |
-| ^# |	Macro mode |
-| ^<0-9> |	Record macro (0 to 9) <br> Press # to confirm programming <br> To end macro recording press ^# followed by # <br> To go back to normal operation just press # |
-| ^* * 0 |	Initialize the device <br> Press # to confirm |
-| ^* * 1 |	RAM FIN programming (0 to 11) <br> Type ^* * 1 \<FIN\> # <frequency> # |
-| ^* * 2 |	Time template programming <br> Typing ^* * 2 \<time-template number\> \<time in msec\> # |
-| ^* * 3 |	Guard tone programming (0, 1 or 2) <br> Press ^* * 3 \<Guard tone number\> \<FIN\> # |
-| ^* * 4 |	Start guard tone <br> Pressing A* * 4 \<guard tone number\>  will turn on that guard tone. |
-| ^* * 5 |	Stop guard tone <br> If a guard tone is on, ^* * 5 will stop it. |
-| ^* * 6 |	Frequency stepping <br> Pressing ^* * 6 \<start frequency\> # \<step size\> # will sound the start frequency.  |
-| ^* * 7 |	Sweep tone (Frequency response testing) <br> Press # to stop |
-| ^* * 8 |	Password protection on |
-| ^* * 9 |	Password protection off |
-| ^* * *	| Number scan <br> Type ^* * * \<play macro\> \<number macro\> \<step size\> # |
-| ^* ^#	| Hookswitch control |
-
-
+| Label | Value | Note |
+| ----- | ----- | ---- |
+| D1 | 1N5818 | |
+| D2 | 1N4148 |  |
+| D3 | 1N4001 |  |
+| Q1, Q4 | 2N2222 |  |
+| Q2, Q3 | 2N2907 |  |
+| R1, R2, R3, R4, R5, R6, R7, R14 | 20k | 1/4W |
+| R8,  R9, R10, R11, R12, R13 | 10k | 1/4W |
+| R15 | 1k | 1/4W |
+| R16, R17, R18, R19, R21 | 33k | 1/4W |
+| R20 | 10M | 1/4W |
+| R22 | 10 | 1/4W |
+| R23, R24, R25, R26 | 10k | 1/4W |
+| R27, R28 | 150 | 1/4W |
+| R29 | 470 | 1/4W |
+| VOL | 10k | Potentiometer |
+| U1 | MC68HC705C8 | MOTOROLA |
+| U2 | LM386 |  |
+| Y1 | 4.194304MHz |  |
+| K1 | 7PIN KEYPAD 3X4 |  |
+| K2 | SIP-1A05 | 5 V Relè |
+| C1, C2 | 33pF |  |
+| C3, C9  | 10uF | Electrolytic |
+| C4 | 100uF | Electrolytic |
+| C5, C6, C7, C8, C10 | 0.1uF | |
+| SPKEXT | PJ-301M | Jack 3.5mm |
+| SPKINT | SD-150 | 150ohm Speaker Phone |
+| SHIFT |  | Button |
+| BATT | 4xAAA | Slot Battery |
 
 # Links
 
