@@ -42,7 +42,7 @@ The Demon Dialer is a BlueBox featured in [Issue No.14/15 of the HACKTIC Magazin
 | VOL | 10k | RV24YN20S Potentiometer |
 | U1 | MC68HC705C8 | MOTOROLA |
 | U2 | LM386 |  |
-| Y1 | 4.194304MHz |  |
+| Y1 | 4.194304MHz | HC49/U |
 | K1 | 7PIN KEYPAD 3X4 |  |
 | K2 | SIP-1A05 | 5V Relè |
 | C1, C2 | 33pF |  |
