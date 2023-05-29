@@ -16,6 +16,7 @@
 | ^* 8 |	**Mode 8** Tone slot |
 | ^* ^2 |	**Mode 12** R2-backeard |
 | ^* ^8 |	**Mode 18** User programmable mode (RAM-mode) |
+| ^* ^9 |	**Mode 19** User programmable mode (RAM-mode) |
 | ^# |	Macro mode |
 | ^<0-9> |	Record macro (0 to 9) <br> Press # to confirm programming <br> To end macro recording press ^# followed by # <br> To go back to normal operation just press # |
 | ^* * 0 |	Initialize the device <br> Press # to confirm |
