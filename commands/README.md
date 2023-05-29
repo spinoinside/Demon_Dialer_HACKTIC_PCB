@@ -22,7 +22,7 @@
 | ^* * 1 |	RAM FIN programming (0 to 11) <br> Type ^* * 1 \<FIN\> # <frequency> # |
 | ^* * 2 |	Time template programming <br> Typing ^* * 2 \<time-template number\> \<time in msec\> # |
 | ^* * 3 |	Guard tone programming (0, 1 or 2) <br> Press ^* * 3 \<Guard tone number\> \<FIN\> # |
-| ^* * 4 |	Start guard tone <br> Pressing A* * 4 \<guard tone number\>  will turn on that guard tone. |
+| ^* * 4 |	Start guard tone <br> Pressing ^* * 4 \<guard tone number\>  will turn on that guard tone. |
 | ^* * 5 |	Stop guard tone <br> If a guard tone is on, ^* * 5 will stop it. |
 | ^* * 6 |	Frequency stepping <br> Pressing ^* * 6 \<start frequency\> # \<step size\> # will sound the start frequency.  |
 | ^* * 7 |	Sweep tone (Frequency response testing) <br> Press # to stop |
