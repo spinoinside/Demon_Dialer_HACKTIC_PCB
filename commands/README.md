@@ -10,7 +10,7 @@
 | ^* 2 |	**Mode 2** R2-forward |
 | ^* 3 |	**Mode 3** CCITT No.3 [C3 / pulse dial] |
 | ^* 4 |	**Mode 4** CCITT No.4 [C4] |
-| ^* 5 |	**Mode 5** CCITT No.5 / R1 [C5] <br> ^1 is called 'Code 11' <br> ^2 is called 'Code 12' <br> ^3 is ‘KP1’ <br> ^4 is ‘KP2’ <br> ^5 is ‘ST’ <br> ^6 lasts 500ms <br> ^7 is 120ms <br> ^8 is 120ms <br> ^9 is 240ms  <br> ^0 is a silence of 50ms <br> * is called clear forward and lasts 175ms <br> # is called seize and lasts 300ms <br> ^6 2600Hz |
+| ^* 5 |	**Mode 5** CCITT No.5 / R1 [C5] <br> ^1 is called 'Code 11' <br> ^2 is called 'Code 12' <br> ^3 is **KP1** <br> ^4 is KP2 <br> ^5 is **ST** <br> ^6 lasts 500ms (**2600Hz**) <br> ^7 is 120ms <br> ^8 is 120ms <br> ^9 is 240ms  <br> ^0 is a silence of 50ms <br> * is called clear forward and lasts 175ms <br> # is called seize and lasts 300ms |
 | ^* 6 |	**Mode 6** RedBox |
 | ^* 7 |	**Mode 7** Line signaling menu |
 | ^* 8 |	**Mode 8** Tone slot |
