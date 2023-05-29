@@ -5,17 +5,17 @@
 | ^ 1 2 3 4 | Password |
 | 2 5 ^8 7 8 ^3 7 3 ^8 2 5 |Master Password |
 | ^* ^*	| Power Off |
-| ^* 0 |	Mode Touch-Tone [DTMF] |
-| ^* 1 |	Mode ATF1 [B-netz] |
-| ^* 2 |	Mode R2-forward |
-| ^* 3 |	Mode CCITT No. 3 [C3/pulse dial] |
-| ^* 4 |	Mode CCITT No. 4 [C4] |
-| ^* 5 |	Mode CCITT No. 5 / R1 [C5] <br> ^1 is called 'Code 11' <br> ^2 is called 'Code 12' <br> ^3 is ‘KP1’ <br> ^4 is ‘KP2’ <br> ^5 is ‘ST’ <br> ^6 lasts 500ms <br> ^7 is 120ms <br> ^8 is 120ms <br> ^9 is 240ms  <br> ^0 is a silence of 50ms <br> * is called clear forward and lasts 175ms <br> # is called seize and lasts 300ms <br> ^6 2600Hz |
-| ^* 6 |	Mode RedBox |
-| ^* 7 |	Mode line signaling menu |
-| ^* 8 |	Mode tone slot |
-| ^* 12 |	Mode R2-backeard |
-| ^* 18 |	Mode user programmable (RAM-mode) |
+| ^* 0 |	**Mode 0** Touch-Tone [DTMF] (default) |
+| ^* 1 |	**Mode 1** ATF1 [B-netz] |
+| ^* 2 |	**Mode 2** R2-forward |
+| ^* 3 |	**Mode 3** CCITT No.3 [C3 / pulse dial] |
+| ^* 4 |	**Mode 4** CCITT No.4 [C4] |
+| ^* 5 |	**Mode 5** CCITT No.5 / R1 [C5] <br> ^1 is called 'Code 11' <br> ^2 is called 'Code 12' <br> ^3 is ‘KP1’ <br> ^4 is ‘KP2’ <br> ^5 is ‘ST’ <br> ^6 lasts 500ms <br> ^7 is 120ms <br> ^8 is 120ms <br> ^9 is 240ms  <br> ^0 is a silence of 50ms <br> * is called clear forward and lasts 175ms <br> # is called seize and lasts 300ms <br> ^6 2600Hz |
+| ^* 6 |	**Mode 6** RedBox |
+| ^* 7 |	**Mode 7** Line signaling menu |
+| ^* 8 |	**Mode 8** Tone slot |
+| ^* ^2 |	**Mode 12** R2-backeard |
+| ^* ^8 |	**Mode 18** User programmable mode (RAM-mode) |
 | ^# |	Macro mode |
 | ^<0-9> |	Record macro (0 to 9) <br> Press # to confirm programming <br> To end macro recording press ^# followed by # <br> To go back to normal operation just press # |
 | ^* * 0 |	Initialize the device <br> Press # to confirm |
