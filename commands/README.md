@@ -20,7 +20,7 @@
 | ^# |	Macro mode |
 | ^<0-9> |	Record macro (0 to 9) <br> Press # to confirm programming <br> To end macro recording press ^# followed by # <br> To go back to normal operation just press # |
 | ^* * 0 |	Initialize the device <br> Press # to confirm |
-| ^* * 1 |	RAM FIN programming (0 to 11) <br> Type ^* * 1 \<FIN\> # <frequency> # |
+| ^* * 1 |	RAM FIN programming (0 to 11) <br> Type ^* * 1 \<FIN\> # \<frequency\> # |
 | ^* * 2 |	Time template programming <br> Typing ^* * 2 \<time-template number\> \<time in msec\> # |
 | ^* * 3 |	Guard tone programming (0, 1 or 2) <br> Press ^* * 3 \<Guard tone number\> \<FIN\> # |
 | ^* * 4 |	Start guard tone <br> Pressing ^* * 4 \<guard tone number\>  will turn on that guard tone. |
